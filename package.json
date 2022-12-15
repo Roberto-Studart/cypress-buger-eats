@@ -1,0 +1,16 @@
+{
+  "name": "get-started",
+  "version": "1.0.0",
+  "description": "Primeiro exemplo em Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Roberto Studart",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress-file-upload": "^5.0.8",
+    "faker": "^5.5.3",
+    "gerador-validador-cpf": "^5.0.2"
+  }
+}

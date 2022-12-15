@@ -1,0 +1,50 @@
+{
+  "signup":{
+      "name": "Cláudio Marques Lima",
+          "CPF": 90453568050,
+          "email_address": "claudioMarques42@gmail.com",
+          "whatsapp": "85988793340",
+          "address":{
+              "postalCode": 60115082,
+              "number": 5515,
+              "street": "Rua Barão de Aracati",
+              "details": "Acolá",
+              "district": "Joaquim Távora",
+              "city_state": "Fortaleza/CE"
+      },
+      "delivery_method":"Moto",
+          "cnh":"/images/cnh-digital.jpg"
+  },
+  "cpf_inv": {
+      "name": "João Lucas Lima",
+          "CPF": "x045356805a",
+          "email_address": "joaolucas42@gmail.com",
+          "whatsapp": "85988793340",
+          "address":{
+              "postalCode": 60115082,
+              "number": 5515,
+              "street": "Rua Barão de Aracati",
+              "details": "Acolá",
+              "district": "Joaquim Távora",
+              "city_state": "Fortaleza/CE"
+      },
+      "delivery_method":"Moto",
+          "cnh":"/images/cnh-digital.jpg"
+  },
+  "email_inv":{
+      "name": "Cláudio Marques Lima",
+          "CPF": 90453568050,
+          "email_address": "emaidoroberto.com.br",
+          "whatsapp": "85988793340",
+          "address":{
+              "postalCode": 60115082,
+              "number": 5515,
+              "street": "Rua Barão de Aracati",
+              "details": "Acolá",
+              "district": "Joaquim Távora",
+              "city_state": "Fortaleza/CE"
+      },
+      "delivery_method":"Moto",
+          "cnh":"/images/cnh-digital.jpg"
+  }
+}
