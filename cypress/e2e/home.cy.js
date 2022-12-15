@@ -3,6 +3,7 @@ import sigunp from '../pages/signupPage'
 
 describe('Home', ()=>{
     it('First view', function (){
-        sigunp.go()
+        cy.viewport(1440, 900)
+        cy.visit('/')
     })
 })
