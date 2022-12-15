@@ -1,7 +1,7 @@
 {
   "name": "get-started",
   "version": "1.0.0",
-  "description": "Primeiro exemplo em Cypress",
+  "description": "Projeto de testes de aceitação do app BugerEats",
   "main": "index.js",
   "scripts": {
     "test": "npx cypress open"
