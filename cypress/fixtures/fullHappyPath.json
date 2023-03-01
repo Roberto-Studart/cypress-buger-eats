@@ -1,0 +1,50 @@
+{
+    "bike": {
+        "name": "Joaquim Barbosa Silva",
+        "CPF": "56879918245",
+        "email_address": "joaquimbarbosa52@gmail.com",
+        "whatsapp": "85996324568",
+        "address": {
+            "postalCode": "60115080",
+            "number": "2666",
+            "address_street": "Rua Barão de Aracati",
+            "address-details": "Ao lado da igreja",
+            "district": "Meireles",
+            "city_uf": "Fortaleza/CE"
+        },
+        "delivery_method": "Bike Elétrica",
+        "cnh": "/images/cnh-digital.jpg"
+    },
+    "carro": {
+        "name": "Arthur Vincent Siclarck",
+        "CPF": "32011955839",
+        "email_address": "vincentClark32@gmail.com",
+        "whatsapp": "85999518897",
+        "address": {
+            "postalCode": "60115081",
+            "number": "1977",
+            "address_street": "Rua Barão de Aracati",
+            "address_details": "Ao lado da laranjeira",
+            "district": "Aldeota",
+            "city_uf": "Fortaleza/CE"
+        },
+        "delivery_method": "Van/Carro",
+        "cnh": "/images/cnh-digital.jpg"
+    },
+    "moto": {
+        "name": "Cláudio Mesquita Lima",
+        "CPF": "90459619290",
+        "email_address": "claudioMarques42@gmail.com",
+        "whatsapp": "85999517869",
+        "address": {
+            "postalCode": 60115082,
+            "number": 2299,
+            "address_street": "Rua Barão de Aracati",
+            "address-details": "Ao lado do fulano de tal",
+            "district": "Joaquim Távora",
+            "city_uf": "Fortaleza/CE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "/images/cnh-digital.jpg"
+    }
+}

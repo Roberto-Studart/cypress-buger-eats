@@ -1,0 +1,85 @@
+{
+    "invalidCpf": {
+        "name": "Charlie Brown Jr",
+        "CPF": "61029AA5698",
+        "email_address": "charliebrown12@gmail.com",
+        "whatsapp": "85999871557",
+        "address": {
+            "postalCode": "60115082",
+            "number": "72",
+            "address_street": "Rua Barão de Aracati",
+            "address_details": "Ali do lado ali",
+            "district": "Joaquim Távora",
+            "city_uf": "Fortaleza/CE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "/images/cnh-digital.jpg"
+    },
+
+    "nullCNH": {
+        "name": "Willame da Silva",
+        "CPF": "65024459671",
+        "email_address": "undefinedsill23@gmail.com",
+        "whatsapp": "85999851178",
+        "address": {
+            "postalCode": "60115080",
+            "number": "888",
+            "address_street": "Rua Barão de Aracati",
+            "address_details": "Do lado da laranjeira",
+            "district": "Meireles",
+            "city_uf": "Fortaleza/CE"
+        },
+        "delivery_method": "Bike Elétrica"
+    },
+
+    "outMethod": {
+        "name": "Matheus Brasileiro Nogueira",
+        "CPF": "00129959671",
+        "email_address": "matheusbrasi23@gmail.com",
+        "whatsapp": "85999851178",
+        "address": {
+            "postalCode": "60115080",
+            "number": "888",
+            "address_street": "Rua Barão de Aracati",
+            "address_details": "Do lado da laranjeira",
+            "district": "Meireles",
+            "city_uf": "Fortaleza/CE"
+        },
+        "delivery_method": "Bike Elétrica",
+        "cnh": "/images/cnh-digital.jpg"
+    },
+
+    "invalidEmail": {
+        "name": "Jason Momola da Silva",
+        "CPF": "65024459671",
+        "email_address": "momolajson32@gmail",
+        "whatsapp": "85999859999",
+        "address": {
+            "postalCode": "60115081",
+            "number": "888",
+            "address_street": "Rua Barão de Aracati",
+            "address_details": "Do lado da laranjeira",
+            "district": "Joaquim Távora",
+            "city_uf": "Fortaleza/CE"
+        },
+        "delivery_method": "Bike Elétrica",
+        "cnh": "/images/cnh-digital.jpg"
+    },
+
+    "invalidWhatsapp": {
+        "name": "Heat Ledger Jhonson",
+        "CPF": "65024459671",
+        "email_address": "heatledger2@gmail.com",
+        "whatsapp": "85999851",
+        "address": {
+            "postalCode": "60115080",
+            "number": "888",
+            "address_street": "Rua Barão de Aracati",
+            "address_details": "Do lado da laranjeira",
+            "district": "Meireles",
+            "city_uf": "Fortaleza/CE"
+        },
+        "delivery_method": "Bike Elétrica",
+        "cnh": "/images/cnh-digital.jpg"
+    }
+}

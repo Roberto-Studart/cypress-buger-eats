@@ -1,0 +1,85 @@
+{
+    "invalidCpf": {
+        "name": "Sister Nancy",
+        "CPF": "61029AA5698",
+        "email_address": "sisNancy64@gmail.com",
+        "whatsapp": "85999871147",
+        "address": {
+            "postalCode": "60115080",
+            "number": "777",
+            "address_street": "Rua Barão de Aracati",
+            "address_details": "Ali do lado ali",
+            "district": "Meireles",
+            "city_uf": "Fortaleza/CE"
+        },
+        "delivery_method": "Bike Elétrica",
+        "cnh": "/images/cnh-digital.jpg"
+    },
+
+    "nullCNH": {
+        "name": "Willame da Silva",
+        "CPF": "65024459671",
+        "email_address": "undefinedsill23@gmail.com",
+        "whatsapp": "85999851178",
+        "address": {
+            "postalCode": "60115080",
+            "number": "888",
+            "address_street": "Rua Barão de Aracati",
+            "address_details": "Do lado da laranjeira",
+            "district": "Meireles",
+            "city_uf": "Fortaleza/CE"
+        },
+        "delivery_method": "Bike Elétrica"
+    },
+
+    "outMethod": {
+        "name": "Gabriel Silva Barroso",
+        "CPF": "65024459671",
+        "email_address": "gabrielsilva3@gmail.com",
+        "whatsapp": "85999851178",
+        "address": {
+            "postalCode": "60115080",
+            "number": "888",
+            "address_street": "Rua Barão de Aracati",
+            "address_details": "Do lado da laranjeira",
+            "district": "Meireles",
+            "city_uf": "Fortaleza/CE"
+        },
+        "delivery_method": "Bike Elétrica",
+        "cnh": "/images/cnh-digital.jpg"
+    },
+
+    "invalidEmail": {
+        "name": "Heat Ledger Jhonson",
+        "CPF": "65024459671",
+        "email_address": "heatledger2@gmail",
+        "whatsapp": "85999851178",
+        "address": {
+            "postalCode": "60115080",
+            "number": "888",
+            "address_street": "Rua Barão de Aracati",
+            "address_details": "Do lado da laranjeira",
+            "district": "Meireles",
+            "city_uf": "Fortaleza/CE"
+        },
+        "delivery_method": "Bike Elétrica",
+        "cnh": "/images/cnh-digital.jpg"
+    },
+
+    "invalidWhatsapp": {
+        "name": "Heat Ledger Jhonson",
+        "CPF": "65024459671",
+        "email_address": "heatledger2@gmail.com",
+        "whatsapp": "85999851",
+        "address": {
+            "postalCode": "60115080",
+            "number": "888",
+            "address_street": "Rua Barão de Aracati",
+            "address_details": "Do lado da laranjeira",
+            "district": "Meireles",
+            "city_uf": "Fortaleza/CE"
+        },
+        "delivery_method": "Bike Elétrica",
+        "cnh": "/images/cnh-digital.jpg"
+    }
+}

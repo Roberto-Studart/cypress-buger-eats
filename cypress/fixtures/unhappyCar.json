@@ -1,0 +1,85 @@
+{
+    "invalidCpf": {
+        "name": "Alboroise da Girto",
+        "CPF": "61029AA5698",
+        "email_address": "alboroise@gmail.com",
+        "whatsapp": "85999001147",
+        "address": {
+            "postalCode": "60115191",
+            "number": "101",
+            "address_street": "Rua Monsenhor Bruno",
+            "address_details": "Ali do lado ali",
+            "district": "Meireles",
+            "city_uf": "Fortaleza/CE"
+        },
+        "delivery_method": "Van/Carro",
+        "cnh": "/images/cnh-digital.jpg"
+    },
+
+    "nullCNH": {
+        "name": "Bezerra da Silva Oliveira",
+        "CPF": "65024459671",
+        "email_address": "bezerrasilva12@gmail.com",
+        "whatsapp": "85991551178",
+        "address": {
+            "postalCode": "60115191",
+            "number": "888",
+            "address_street": "Rua Monsenhor Bruno",
+            "address_details": "Do lado da laranjeira",
+            "district": "Meireles",
+            "city_uf": "Fortaleza/CE"
+        },
+        "delivery_method": "Van/Carro"
+    },
+
+    "outMethod": {
+        "name": "Laura Serafim Silva",
+        "CPF": "65024459671",
+        "email_address": "lauraserafim23@gmail.com",
+        "whatsapp": "85996611788",
+        "address": {
+            "postalCode": "60115191",
+            "number": "155",
+            "address_street": "Rua Monsenhor Bruno",
+            "address_details": "Do lado da laranjeira",
+            "district": "Meireles",
+            "city_uf": "Fortaleza/CE"
+        },
+        "delivery_method": "Van/Carro",
+        "cnh": "/images/cnh-digital.jpg"
+    },
+
+    "invalidEmail": {
+        "name": "Boris Jonhson Lincon",
+        "CPF": "65024459671",
+        "email_address": "borisjhonson85@gmail.com",
+        "whatsapp": "85999851178",
+        "address": {
+            "postalCode": "60115080",
+            "number": "888",
+            "address_street": "Rua Monsenhor Bruno",
+            "address_details": "Do lado da laranjeira",
+            "district": "Meireles",
+            "city_uf": "Fortaleza/CE"
+        },
+        "delivery_method": "Van/Carro",
+        "cnh": "/images/cnh-digital.jpg"
+    },
+
+    "invalidWhatsapp": {
+        "name": " ",
+        "CPF": "65024459671",
+        "email_address": "heatledger2@gmail.com",
+        "whatsapp": "85999851",
+        "address": {
+            "postalCode": "60115080",
+            "number": "888",
+            "address_street": "Rua Mosenhor Bruno",
+            "address_details": "Do lado da macieira",
+            "district": "Meireles",
+            "city_uf": "Fortaleza/CE"
+        },
+        "delivery_method": "Van/Carro",
+        "cnh": "/images/cnh-digital.jpg"
+    }
+}
